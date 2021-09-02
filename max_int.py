@@ -1,5 +1,5 @@
 #Get int inputs from user until input is negative
-#Find the highest input and print it
+#Find the highest input and print it.
 
 max_int = 0
 num_int = 0
